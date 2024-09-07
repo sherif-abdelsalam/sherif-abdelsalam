@@ -6,10 +6,9 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-- 👋 Hi, I’m @sherif-abdelsalam
 - 🏢 I'm a CS Student
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 I am interested in: C++,Software development 
+- 💬 I am interested in: Software development 
 
 ### Connect with Me :
 
