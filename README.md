@@ -1,17 +1,57 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+# 👋 Sherif Abdelsalam
 
-<h3 align="center">
-  Welcome to Sherif AbdelSalam profile!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+**Software Developer | MERN Stack **
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-- 🏢 I'm a CS Student
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 I am interested in: Software development 
+Passionate software developer specializing in **web development** with a focus on building **secure**, and **scalable** applications. With hands-on experience in full-stack development, problem-solving, and a solid foundation in data structures and OOP, I'm always eager to learn and tackle real-world challenges.
 
-### Connect with Me :
+- B.Sc. in Computer Science – GPA: **3.74/4.0**
+- **Full stack development**
+- Experienced with **Node.js, React.js, Express, MongoDB**, and REST APIs
+- Strong in clean architecture, authentication, and backend security
+---
 
-<a href="https://www.linkedin.com/in/sheriff-muhammad-945926250/" target="_blank"><img src="https://img.shields.io/badge/-Sherif%20HodHod-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/SherifHodHod" target="_blank"><img src="https://img.shields.io/badge/-Sherif%20HodHod-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+## 💼 Experience
 
+**🧠 Software Engineer Intern – Obelion.ai**  
+*Dec 2024 – Feb 2025*  
+- Worked on both small-scale and large-scale applications as part of the dev team  
+- Built full-stack features using the **MERN** stack  
+- Explored **Flutter** for mobile application development  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+
+**Frameworks & Tools:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📫 Contact
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sherif.abdelsalam.111@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherif-abdelsalam/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sherif-abdelsalam)
+
+---
+
+_Thanks for visiting my profile! Feel free to connect or check out my pinned projects below._ 👇
