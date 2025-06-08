@@ -50,8 +50,6 @@ Passionate software developer specializing in **web development** with a focus o
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sherif.abdelsalam.111@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherif-abdelsalam/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sherif-abdelsalam)
-
 ---
 
 _Thanks for visiting my profile! Feel free to connect or check out my pinned projects below._ 👇
