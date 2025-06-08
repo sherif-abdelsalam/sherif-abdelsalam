@@ -1,6 +1,6 @@
 # 👋 Sherif Abdelsalam
 
-**Software Developer | MERN Stack **
+**Software Developer | MERN Stack**
 
 Passionate software developer specializing in **web development** with a focus on building **secure**, and **scalable** applications. With hands-on experience in full-stack development, problem-solving, and a solid foundation in data structures and OOP, I'm always eager to learn and tackle real-world challenges.
 
