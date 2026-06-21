@@ -1,55 +1,119 @@
 # 👋 Sherif Abdelsalam
 
-**Software Developer | MERN Stack**
+**DevOps Engineer | AWS | Kubernetes | Terraform | GitOps**
 
-Passionate software developer specializing in **web development** with a focus on building **secure**, and **scalable** applications. With hands-on experience in full-stack development, problem-solving, and a solid foundation in data structures and OOP, I'm always eager to learn and tackle real-world challenges.
+Passionate DevOps Engineer with hands-on experience designing, automating, and managing cloud-native infrastructure and deployment pipelines. Skilled in Infrastructure as Code (Terraform), container orchestration with Kubernetes, CI/CD automation, and GitOps practices using ArgoCD.
 
-- B.Sc. in Computer Science – GPA: **3.74/4.0**
-- **Full stack development**
-- Experienced with **Node.js, React.js, Express, MongoDB**, and REST APIs
-- Strong in clean architecture, authentication, and backend security
+I enjoy building scalable, secure, and production-ready platforms on AWS while applying DevOps best practices to improve reliability, automation, and developer productivity.
+
+* 🎓 B.Sc. in Computer Science — GPA: **3.74/4.0**
+* 🎓 ITI Cloud Platform Development Track (9-Month Diploma)
+* ☁️ AWS Certified Cloud Practitioner
+* 🚀 Experienced in AWS, Kubernetes, Terraform, Docker, Jenkins, GitHub Actions, and ArgoCD
+* 🔐 Strong focus on infrastructure automation, security, observability, and GitOps
+
 ---
 
 ## 💼 Experience
 
-**🧠 Software Engineer Intern – Obelion.ai**  
-*Dec 2024 – Feb 2025*  
-- Worked on both small-scale and large-scale applications as part of the dev team  
-- Built full-stack features using the **MERN** stack  
-- Explored **Flutter** for mobile application development  
+### 🧠 Full-Stack Engineer Intern — Obelion.ai
+
+**Dec 2024 – Feb 2025**
+
+* Contributed to production-ready applications as part of the engineering team.
+* Developed frontend and backend features using React, Next.js, Node.js, and MongoDB.
+* Worked on scalable web applications and collaborative development workflows.
+* Explored Flutter for cross-platform mobile development.
+
+---
+
+## 🚀 Featured Projects
+
+### ☁️ SkyOps – WeatherApp EKS Deployment
+
+**Terraform • AWS EKS • Docker • Jenkins • ArgoCD • Helm • NGINX Ingress**
+
+* Provisioned production-grade AWS infrastructure using Terraform across multiple Availability Zones.
+* Deployed and managed microservices on Amazon EKS using Kubernetes and Helm.
+* Implemented GitOps workflows using ArgoCD and Argo Image Updater.
+* Built CI/CD pipelines with Jenkins and Amazon ECR.
+* Integrated AWS Secrets Manager with External Secrets Operator (ESO).
+* Secured ingress traffic using cert-manager, Let's Encrypt, and NGINX Ingress.
+
+### ⚙️ AWS & CI/CD Platform for Node.js E-Commerce API
+
+**AWS • Terraform • Docker • GitHub Actions**
+
+* Designed scalable AWS infrastructure using Terraform.
+* Implemented secure networking, IAM least-privilege access, and KMS encryption.
+* Automated container build, testing, and deployment using GitHub Actions.
+* Enabled zero-downtime deployments using Auto Scaling Group Instance Refresh.
+
+### 🖥️ DBMS Using Bash
+
+**Bash • Linux • Shell Scripting**
+
+* Built a command-line Database Management System from scratch.
+* Implemented CRUD operations, datatype validation, and primary key constraints.
+* Applied Linux and Bash scripting concepts to create a fully functional database engine.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+### Cloud & DevOps
 
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+* AWS
+* Terraform
+* Kubernetes
+* Docker
+* Helm
+* ArgoCD
+* Jenkins
+* GitHub Actions
+* Ansible
+* NGINX
+* Prometheus
+* Grafana
+* Linux
+* Bash
 
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### Programming
+
+* JavaScript
+* Python
+* C++
+* SQL
+
+### Backend & Databases
+
+* Node.js
+* Express.js
+* Django
+* PostgreSQL
+* MySQL
+* MongoDB
+
+### Version Control
+
+* Git
+* GitHub
+* GitLab
 
 ---
 
-## 📫 Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sherif.abdelsalam.111@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherif-abdelsalam/)
+## 🏆 Certifications
+
+* AWS Certified Cloud Practitioner
+
 ---
 
-_Thanks for visiting my profile! Feel free to connect or check out my pinned projects below._ 👇
+## 📫 Connect With Me
+
+* 📧 Email: [sherif.mohammed.abdelsalam@gmail.com](mailto:sherif.mohammed.abdelsalam@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/sherif-abdelsalam
+* 🐙 GitHub: github.com/sherif-abdelsalam
+
+---
+
+⭐ I’m currently focused on mastering Kubernetes, GitOps, Platform Engineering, Cloud Infrastructure, and Production-Grade DevOps Practices.
