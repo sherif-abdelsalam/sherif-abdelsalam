@@ -84,11 +84,6 @@ My primary interests include:
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
-## 🌐 Web & Networking
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nginx" />
-</p>
 ---
 
 # 💼 Experience
