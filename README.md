@@ -1,119 +1,199 @@
-# 👋 Sherif Abdelsalam
+<div align="center">
 
-**DevOps Engineer | AWS | Kubernetes | Terraform | GitOps**
+# Hi 👋 I'm Sherif Abdelsalam
 
-Passionate DevOps Engineer with hands-on experience designing, automating, and managing cloud-native infrastructure and deployment pipelines. Skilled in Infrastructure as Code (Terraform), container orchestration with Kubernetes, CI/CD automation, and GitOps practices using ArgoCD.
+### DevOps Engineer • AWS • Kubernetes • Terraform • GitOps
 
-I enjoy building scalable, secure, and production-ready platforms on AWS while applying DevOps best practices to improve reliability, automation, and developer productivity.
+Building scalable, secure, and production-ready cloud infrastructure.
 
-* 🎓 B.Sc. in Computer Science — GPA: **3.74/4.0**
-* 🎓 ITI Cloud Platform Development Track (9-Month Diploma)
-* ☁️ AWS Certified Cloud Practitioner
-* 🚀 Experienced in AWS, Kubernetes, Terraform, Docker, Jenkins, GitHub Actions, and ArgoCD
-* 🔐 Strong focus on infrastructure automation, security, observability, and GitOps
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;CI%2FCD+Automation;GitOps+with+ArgoCD;Cloud+Infrastructure+Engineer" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=sherif-abdelsalam&style=for-the-badge&color=blue)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sherif-abdelsalam)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sherif-abdelsalam)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherif.mohammed.abdelsalam@gmail.com)
+
+</div>
 
 ---
 
-## 💼 Experience
+# 🚀 About Me
 
-### 🧠 Full-Stack Engineer Intern — Obelion.ai
+I'm a DevOps Engineer passionate about designing, automating, and operating production-ready cloud infrastructure.
+
+My primary interests include:
+
+- ☁️ AWS Cloud
+- ☸️ Kubernetes
+- 🏗️ Infrastructure as Code
+- 🚀 CI/CD Automation
+- 🔄 GitOps
+- 🔐 Cloud Security
+- 📈 Platform Reliability
+
+### 🎓 Education
+
+- 🎓 B.Sc. in Computer Science (GPA **3.74/4.0**)
+- 🎓 ITI Cloud Platform Development (9-Month Diploma)
+- ☁️ AWS Certified Cloud Practitioner
+
+---
+
+# 🛠 Tech Stack
+
+## ☁️ Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,ansible,linux,bash,git,github" />
+</p>
+
+## 🚀 Kubernetes Ecosystem
+
+<p align="center">
+
+Helm • ArgoCD • Amazon EKS • NGINX Ingress • cert-manager • External Secrets Operator
+
+</p>
+
+## 💻 Programming
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,django,cpp" />
+</p>
+
+## 🗄 Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+## 📊 Monitoring
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+---
+
+# 💼 Experience
+
+## 🧠 Full-Stack Engineer Intern — Obelion.ai
 
 **Dec 2024 – Feb 2025**
 
-* Contributed to production-ready applications as part of the engineering team.
-* Developed frontend and backend features using React, Next.js, Node.js, and MongoDB.
-* Worked on scalable web applications and collaborative development workflows.
-* Explored Flutter for cross-platform mobile development.
+- Developed production-ready frontend and backend features.
+- Built applications using React, Next.js, Node.js, and MongoDB.
+- Collaborated within agile engineering teams.
+- Explored Flutter for cross-platform mobile development.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### ☁️ SkyOps – WeatherApp EKS Deployment
+## ☁️ SkyOps — Production AWS EKS Platform
 
-**Terraform • AWS EKS • Docker • Jenkins • ArgoCD • Helm • NGINX Ingress**
+**Terraform • AWS • Kubernetes • Helm • Jenkins • ArgoCD**
 
-* Provisioned production-grade AWS infrastructure using Terraform across multiple Availability Zones.
-* Deployed and managed microservices on Amazon EKS using Kubernetes and Helm.
-* Implemented GitOps workflows using ArgoCD and Argo Image Updater.
-* Built CI/CD pipelines with Jenkins and Amazon ECR.
-* Integrated AWS Secrets Manager with External Secrets Operator (ESO).
-* Secured ingress traffic using cert-manager, Let's Encrypt, and NGINX Ingress.
+### Highlights
 
-### ⚙️ AWS & CI/CD Platform for Node.js E-Commerce API
-
-**AWS • Terraform • Docker • GitHub Actions**
-
-* Designed scalable AWS infrastructure using Terraform.
-* Implemented secure networking, IAM least-privilege access, and KMS encryption.
-* Automated container build, testing, and deployment using GitHub Actions.
-* Enabled zero-downtime deployments using Auto Scaling Group Instance Refresh.
-
-### 🖥️ DBMS Using Bash
-
-**Bash • Linux • Shell Scripting**
-
-* Built a command-line Database Management System from scratch.
-* Implemented CRUD operations, datatype validation, and primary key constraints.
-* Applied Linux and Bash scripting concepts to create a fully functional database engine.
+- ✅ Provisioned AWS infrastructure using Terraform
+- ✅ Built highly available Amazon EKS clusters
+- ✅ Automated CI/CD with Jenkins
+- ✅ GitOps deployments using ArgoCD
+- ✅ Automated image updates with Argo Image Updater
+- ✅ Managed secrets using AWS Secrets Manager & External Secrets Operator
+- ✅ Automated TLS using cert-manager & Let's Encrypt
+- ✅ Configured NGINX Ingress Controller
+- ✅ Stored container images in Amazon ECR
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ AWS Infrastructure & CI/CD Platform
 
-### Cloud & DevOps
+**Terraform • GitHub Actions • Docker • AWS**
 
-* AWS
-* Terraform
-* Kubernetes
-* Docker
-* Helm
-* ArgoCD
-* Jenkins
-* GitHub Actions
-* Ansible
-* NGINX
-* Prometheus
-* Grafana
-* Linux
-* Bash
+### Highlights
 
-### Programming
-
-* JavaScript
-* Python
-* C++
-* SQL
-
-### Backend & Databases
-
-* Node.js
-* Express.js
-* Django
-* PostgreSQL
-* MySQL
-* MongoDB
-
-### Version Control
-
-* Git
-* GitHub
-* GitLab
+- ✅ Infrastructure as Code using Terraform
+- ✅ Secure VPC Networking
+- ✅ IAM Least Privilege
+- ✅ AWS KMS Encryption
+- ✅ Dockerized Application
+- ✅ Automated CI/CD using GitHub Actions
+- ✅ Zero-Downtime Deployments with Auto Scaling Instance Refresh
 
 ---
 
-## 🏆 Certifications
+## 🖥 Linux Bash Database Management System
 
-* AWS Certified Cloud Practitioner
+A complete command-line database engine built entirely with Bash.
+
+### Features
+
+- CRUD Operations
+- Primary Key Constraints
+- Datatype Validation
+- Table Management
+- Linux Automation
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Statistics
 
-* 📧 Email: [sherif.mohammed.abdelsalam@gmail.com](mailto:sherif.mohammed.abdelsalam@gmail.com)
-* 💼 LinkedIn: linkedin.com/in/sherif-abdelsalam
-* 🐙 GitHub: github.com/sherif-abdelsalam
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=sherif-abdelsalam&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sherif-abdelsalam&layout=compact&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=sherif-abdelsalam&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-⭐ I’m currently focused on mastering Kubernetes, GitOps, Platform Engineering, Cloud Infrastructure, and Production-Grade DevOps Practices.
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=sherif-abdelsalam&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- ☸️ Advanced Kubernetes
+- 🚀 GitOps at Scale
+- ☁️ AWS Production Architectures
+- 🔐 Kubernetes Security
+- 📦 Platform Engineering
+- ⚡ Cloud Native Technologies
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sherif-abdelsalam)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sherif-abdelsalam)
+
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherif.mohammed.abdelsalam@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Automating infrastructure, simplifying deployments, and building reliable cloud platforms."*
+
+</div>
