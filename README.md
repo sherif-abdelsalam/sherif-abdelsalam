@@ -127,20 +127,6 @@ Helm • ArgoCD • Amazon EKS • NGINX Ingress • cert-manager • External S
 
 ---
 
-## 🖥 Linux Bash Database Management System
-
-A complete command-line database engine built entirely with Bash.
-
-### Features
-
-- CRUD Operations
-- Primary Key Constraints
-- Datatype Validation
-- Table Management
-- Linux Automation
-
----
-
 # 📊 GitHub Statistics
 
 <div align="center">
@@ -153,40 +139,23 @@ A complete command-line database engine built entirely with Bash.
 
 </div>
 
----
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=sherif-abdelsalam&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
 
 ---
 
-# 🌱 Currently Learning
+## 📫 Connect With Me
 
-- ☸️ Advanced Kubernetes
-- 🚀 GitOps at Scale
-- ☁️ AWS Production Architectures
-- 🔐 Kubernetes Security
-- 📦 Platform Engineering
-- ⚡ Cloud Native Technologies
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sherif-abdelsalam)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sherif-abdelsalam)
-
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherif.mohammed.abdelsalam@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/sherif-abdelsalam">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sherif-abdelsalam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sherif.mohammed.abdelsalam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
