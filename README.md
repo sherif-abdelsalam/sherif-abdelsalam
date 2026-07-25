@@ -36,46 +36,59 @@ My primary interests include:
 
 ### 🎓 Education
 
-- 🎓 B.Sc. in Computer Science (GPA **3.74/4.0**)
 - 🎓 ITI Cloud Platform Development (9-Month Diploma)
-- ☁️ AWS Certified Cloud Practitioner
-
+- 🎓 B.Sc. in Computer Science (GPA **3.74/4.0**)
 ---
 
 # 🛠 Tech Stack
 
-## ☁️ Cloud & DevOps
+## ☁️ Cloud Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,ansible,linux,bash,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
-## 🚀 Kubernetes Ecosystem
+## 🚀 DevOps & CI/CD
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible" />
+</p>
 
-Helm • ArgoCD • Amazon EKS • NGINX Ingress • cert-manager • External Secrets Operator
+## 🔧 Version Control
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
+
+## 🖥 Operating Systems & Scripting
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
 
 ## 💻 Programming
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,django,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,django,cpp" />
 </p>
 
 ## 🗄 Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-## 📊 Monitoring
+## 📈 Monitoring & Observability
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
+## 🌐 Web & Networking
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nginx" />
+</p>
 ---
 
 # 💼 Experience
